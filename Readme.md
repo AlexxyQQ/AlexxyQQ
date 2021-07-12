@@ -4,4 +4,8 @@
 - Not happy
 
 <br/>
-<img align="Left" alt="Discord" width="24" src="https://image.flaticon.com/icons/png/512/2111/2111370.png">
+<img align="Left" alt="Discord" width="24" 
+src="https://image.flaticon.com/icons/png/512/2111/2111370.png"/>
+[website]
+
+[website]: wwww.apple.com
