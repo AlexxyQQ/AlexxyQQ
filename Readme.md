@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Python, Photoshop, Illustrator**
 
-- 📫 How to reach me **alexxy@hamham.uk**
+- 📫 How to reach me **aayushpandey616@gmail.com**
 
 - ⚡ Fun fact **I don't know what am i doing with my life ☹️**
 
