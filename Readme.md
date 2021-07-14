@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **aayushpandey616@gmail.com**
 
-- ⚡ Fun fact **I don't know what am i doing with my life ☹️**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
