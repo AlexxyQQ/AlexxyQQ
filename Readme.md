@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Aayush aka Alexxy😈</h1>
+<h1 align="center">Hi 👋, I'm Aayush aka Alexxy</h1>
 <h3 align="center">A lerner and a beginner in the world of coding.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alexxyqq&label=Profile%20views&color=02ede9&style=plastic" alt="alexxyqq" /> </p>
@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **Python, Photoshop, Illustrator**
 
-- 📫 How to reach me **alexxy@hamham.uk**
+- 📫 How to reach me **aayushpandey616@gmail.com**
 
-- ⚡ Fun fact **I don't know what am i doing with my life ☹️**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
