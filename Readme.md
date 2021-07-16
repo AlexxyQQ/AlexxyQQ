@@ -3,7 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alexxyqq&label=Profile%20views&color=02ede9&style=plastic" alt="alexxyqq" /> </p>
 
-- 🔭 I’m currently working on [Calculator](https://github.com/AlexxyQQ/Tkinter_calculator.git)
+- 🔭 I’m currently working on **nothing right now.** 
+
+- 💻 Just finished [Calculator](https://github.com/AlexxyQQ/Tkinter_calculator) ![GitHub last commit](https://img.shields.io/github/last-commit/AlexxyQQ/Tkinter_calculator?style=plastic)
 
 - 🌱 I’m currently learning **Python, Photoshop, Illustrator**
 
