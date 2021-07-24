@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alexxyqq&label=Profile%20views&color=02ede9&style=plastic" alt="alexxyqq" /> </p>
 
-- 🔭 I’m currently working on **nothing right now.** 
+- 🔭 I’m currently working on [Calculator](https://github.com/AlexxyQQ/Tkinter_calculator) ![GitHub last commit](https://img.shields.io/github/last-commit/AlexxyQQ/Tkinter_calculator?style=plastic) 
 
-- 💻 Just finished [Calculator](https://github.com/AlexxyQQ/Tkinter_calculator) ![GitHub last commit](https://img.shields.io/github/last-commit/AlexxyQQ/Tkinter_calculator?style=plastic)
+- 💻 Planning to work on **Car Parking Management System**
 
-- 🌱 I’m currently learning **Python, Photoshop, Illustrator**
+- 🌱 I’m currently learning **Python, Photoshop, Illustrator,Css**
 
 - 📫 How to reach me **aayushpandey616@gmail.com**
 
@@ -20,7 +20,14 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p align="left"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
+
+</p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alexxyqq&show_icons=true&theme=dark&title_color=6adbd9&hide_border=true&locale=en&layout=compact" alt="alexxyqq" /></p>
 
