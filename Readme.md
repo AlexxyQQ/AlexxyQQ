@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alexxyqq&label=Profile%20views&color=02ede9&style=plastic" alt="alexxyqq" /> </p>
 
-- 🔭 I’m currently working on **Nothing**
+- 🔭 I’m currently working on [From Moon To Earth](https://github.com/AlexxyQQ/From_Moon_To_Earth) ![GitHub last commit](https://img.shields.io/github/last-commit/AlexxyQQ/From_Moon_To_Earth?style=plastic)
 
 - 💻 Just Completed [Calculator](https://github.com/AlexxyQQ/Tkinter_calculator) ![GitHub last commit](https://img.shields.io/github/last-commit/AlexxyQQ/Tkinter_calculator?style=plastic)
 
