@@ -3,15 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alexxyqq&label=Profile%20views&color=02ede9&style=plastic" alt="alexxyqq" /> </p>
 
-- 🔭 I’m currently working on [From Moon To Earth](https://github.com/AlexxyQQ/From-Moon-To-Earth) ![GitHub last commit](https://img.shields.io/github/last-commit/AlexxyQQ/From-Moon-To-Earth?style=plastic)
-
-- 💻 Just Completed [Calculator](https://github.com/AlexxyQQ/Tkinter_calculator) ![GitHub last commit](https://img.shields.io/github/last-commit/AlexxyQQ/Tkinter_calculator?style=plastic)
+- 🔭 I’m currently working on a Game
 
 - 🌱 I’m currently learning **Python, Photoshop, Illustrator,Css**
 
 - 📫 How to reach me **aayushpandey616@gmail.com**
 
 
+<h3 align="left">Projects I worked on:</h3>
+<a href="https://github.com/AlexxyQQ/Tkinter_calculator"> <img align="center" src="https://i.imgur.com/JDzrSoW.png" alt="alexxyqq" height="40" width="40" /></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
