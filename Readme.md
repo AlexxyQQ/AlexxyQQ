@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alexxyqq&label=Profile%20views&color=02ede9&style=plastic" alt="alexxyqq" /> </p>
 
-- 🔭 I’m currently working on a Game
+- 🔭 I’m currently working on a Game and [Text Draw](https://github.com/AlexxyQQ/Text_Draw)
 
 - 🌱 I’m currently learning **Python, Photoshop, Illustrator,Css**
 
