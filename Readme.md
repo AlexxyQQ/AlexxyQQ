@@ -11,8 +11,15 @@
 
 
 <h3 align="left">Projects I worked on:</h3>
-<a href="https://github.com/AlexxyQQ/Tkinter_calculator"> <img align="center" title="Calculator" src="https://i.imgur.com/JDzrSoW.png" height="40" width="40" ></a>
-<a href="https://github.com/AlexxyQQ/G-Pass"> <img align="center" title="G-Pass(An offline password manager)" src = "https://i.imgur.com/VX9qswa.png" height="50" width="40"> </a>
+<a href="https://github.com/AlexxyQQ/Tkinter_calculator">
+ <img align="center" title="Calculator" src="https://i.imgur.com/JDzrSoW.png" height="40" width="40" >
+</a>
+<a href="https://github.com/AlexxyQQ/G-Pass">
+ <img align="center" title="G-Pass (An offline password manager)" src = "https://i.imgur.com/VX9qswa.png" height="50" width="40">
+</a>
+<a href="https://github.com/AlexxyQQ/From-Moon-to-Earth">
+ <img align="center" title="From Moon To Earth (Game)" src = "https://i.imgur.com/wQISZoe.png" width="40" height="40">
+</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
