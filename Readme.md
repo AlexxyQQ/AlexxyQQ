@@ -11,7 +11,7 @@
 
 
 <h3 align="left">Projects I worked on:</h3>
-<a href="https://github.com/AlexxyQQ/Tkinter_calculator"> <img align="center" src="https://i.imgur.com/JDzrSoW.png" height="40" width="40" ></a>
+<a href="https://github.com/AlexxyQQ/Tkinter_calculator"> <img align="center" title="Calculator" src="https://i.imgur.com/JDzrSoW.png" height="40" width="40" ></a>
 <a href="https://github.com/AlexxyQQ/G-Pass"> <img align="center"  src = "https://i.imgur.com/VX9qswa.png" height="50" width="40"> </a>
 
 <h3 align="left">Connect with me:</h3>
