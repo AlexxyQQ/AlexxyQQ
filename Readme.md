@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning **Python, Photoshop, Illustrator,Css**
 
 - 📫 How to reach me **aayushpandey616@gmail.com**
-<h5> She is Qilly ..She's my crazy girl.</h5>
+<h5> Qilly ..She's my crazy girl.</h5>
 
 <h3 align="left">Projects I worked on:</h3>
 <a href="https://github.com/AlexxyQQ/Tkinter_calculator">
