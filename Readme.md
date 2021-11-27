@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aayush aka Alexxy</h1>
 <h3 align="center">A learner and a beginner in the world of coding.</h3>
+She is Qilly ..She's my crazy girl.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alexxyqq&label=Profile%20views&color=02ede9&style=plastic" alt="alexxyqq" /> </p>
 
