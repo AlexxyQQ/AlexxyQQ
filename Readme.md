@@ -9,6 +9,7 @@
 
 - 📫 How to reach me **aayushpandey616@gmail.com**
 
+Qilly is my crazy girl.
 
 <h3 align="left">Projects I worked on:</h3>
 <a href="https://github.com/AlexxyQQ/Tkinter_calculator">
