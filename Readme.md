@@ -7,7 +7,6 @@
 - 🔭 I’m currently working on nothing
 - 🌱 I’m currently learning **Python, Photoshop, Illustrator,Css**
 
-- 📫 How to reach me **aayushpandey616@gmail.com**
 <br>Qilly is my crazy girl.
 
 <h3 align="left">Projects I worked on:</h3>
