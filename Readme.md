@@ -5,11 +5,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alexxyqq&label=Profile%20views&color=02ede9&style=plastic" alt="alexxyqq" /> </p>
 
 - 🔭 I’m currently working on my personal website.
-- 🌱 I’m currently learning **Css,Scss,JS,Django**
+- 🌱 I’m currently learning **Css, Scss, JS, Django**
 
 <br>Qilly is my crazy girl.
 
-<h3 align="left">Projects I worked on:</h3>
+<h3 align="left">Projects I have worked on:</h3>
 <a href="https://github.com/AlexxyQQ/Tkinter_calculator">
  <img align="center" title="Calculator" src="https://i.imgur.com/JDzrSoW.png" height="40" width="40" >
 </a>
