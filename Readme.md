@@ -7,7 +7,6 @@
 - 🔭 I’m currently working on my personal website.
 - 🌱 I’m currently learning **Css, Scss, JS, Django**
 
-<br>Qilly is my crazy girl.
 
 <h3 align="left">Projects I have worked on:</h3>
 <a href="https://github.com/AlexxyQQ/Tkinter_calculator">
