@@ -1,11 +1,8 @@
-<h1 align="center">Hi 👋, I'm Aayush aka Alexxy😈</h1>
+<h1 align="center">Hi 👋, I'm Aayush Pandey aka Alexxy😈</h1>
 <h3 align="center">A learner and a beginner in the world of coding.</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alexxyqq&label=Profile%20views&color=02ede9&style=plastic" alt="alexxyqq" /> </p>
-
-- 🔭 I’m currently working on my personal website.
-- 🌱 I’m currently learning **Css, Scss, JS, Django**
 
 
 <h3 align="left">Projects I have worked on:</h3>
