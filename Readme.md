@@ -9,6 +9,9 @@
 <a href="https://github.com/AlexxyQQ/FindTune">
  <img align="center" title="FindTune" src="https://github.com/AlexxyQQ/FindTune/raw/master/static/Assets/Logo.png" height="40" width="40" >
 </a>
+<a href="https://github.com/AlexxyQQ/iGraph">
+ <img align="center" title="iGraph" src="https://github.com/AlexxyQQ/iGraph/blob/master/Static/Assets/Logo-512.png" height="40" width="40" >
+</a>
 <a href="https://github.com/AlexxyQQ/Tkinter_calculator">
  <img align="center" title="Calculator" src="https://i.imgur.com/JDzrSoW.png" height="40" width="40" >
 </a>
