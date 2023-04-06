@@ -9,9 +9,6 @@
 <a href="https://github.com/AlexxyQQ/pomotimer">
  <img align="center" title="PomoTimer" src="https://github.com/AlexxyQQ/PomoTimer/blob/master/assets/icon.png" height="40" width="40" >
 </a>
-<a href="https://github.com/AlexxyQQ/musync">
- <img align="center" title="Musync" src="https://github.com/AlexxyQQ/Musync/blob/master/assets/splash_screen/icon.png" height="40" width="40" >
-</a>
 <a href="https://github.com/AlexxyQQ/FindTune">
  <img align="center" title="FindTune" src="https://github.com/AlexxyQQ/FindTune/raw/master/static/Assets/Logo.png" height="40" width="40" >
 </a>
